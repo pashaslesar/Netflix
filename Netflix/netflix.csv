@@ -1,0 +1,6 @@
+VideoPolozka{nazev=SlovoPisuna, zemePuvodu=Russia, druh=SERIAL, zanr=komedie, delka=Cas{6:41}}
+VideoPolozka{nazev=StrangerThings, zemePuvodu=USA, druh=SERIAL, zanr=triller, delka=Cas{9:53}}
+VideoPolozka{nazev=Kuchnya, zemePuvodu=Russia, druh=SERIAL, zanr=komedie, delka=Cas{12:12}}
+VideoPolozka{nazev=MajorGrom, zemePuvodu=Russia, druh=FILM, zanr=drama, delka=Cas{2:44}}
+VideoPolozka{nazev=After, zemePuvodu=VelkaBritanie, druh=FILM, zanr=horor, delka=Cas{3:12}}
+VideoPolozka{nazev=RedWhiteAndRoyalBlue, zemePuvodu=USA, druh=FILM, zanr=komedie, delka=Cas{2:56}}
